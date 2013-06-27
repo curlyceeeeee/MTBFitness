@@ -1,0 +1,12 @@
+Name: Default
+DataProvider: SqlServer
+DataConnectionString: Data Source=CAUSTON08;Initial Catalog=dbMTBFitnessDev;Persist Security Info=True;User ID=sa;Password=cream8MaxC!9 
+DataPrefix: null
+RequestUrlHost: null
+RequestUrlPrefix: null
+State: Running
+EncryptionAlgorithm: AES
+EncryptionKey: 4E856D6A21632D479B69F0F69FB0B72A152EF5E6CA687193103ED97926BDA421
+HashAlgorithm: HMACSHA256
+HashKey: B46E639797D2E4029588B944FC451819E2F11B93AC2D9A68C01C68658AC0C8E099F3B880CA9107BFCF9DAADD03460EC701FAAC3A964E5006E9C4B6A8180E9E13
+Themes: 
